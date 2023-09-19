@@ -1,7 +1,7 @@
 [{
 		"id": "28",
 		"name": "Sora Doi",
-		"price": "Per KG : ৳ 240",
+		"price": "$240",
 		"description": "Doi is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://satkhirashop.com/wp-content/uploads/2021/04/60226109_525736324623831_1690551380277723136_n.jpg",
 		"sub_des": "1"
@@ -9,7 +9,7 @@
 	{
 		"id": "29",
 		"name": "Tok Doi",
-		"price": "Per KG : ৳ 150",
+		"price": "$150",
 		"description": "Doi is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://img-global.cpcdn.com/recipes/53ba6a8cae9b83b0/680x482cq70/%E0%A6%9F%E0%A6%95%E0%A6%A6%E0%A6%87-tok-doi-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg",
 		"sub_des": "0"
@@ -17,7 +17,7 @@
 	{
 		"id": "30",
 		"name": "Misti Doi",
-		"price": "Per KG : ৳ 120",
+		"price": "$120",
 		"description": "Doi is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://im.whatshot.in/img/2019/May/640x400-3-1559215877.jpg",
 		"sub_des": "1"
@@ -25,7 +25,7 @@
 	{
 		"id": "31",
 		"name": "Cup Doi",
-		"price": "Per KG : ৳ 130",
+		"price": "$130",
 		"description": "Doi is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://i0.wp.com/www.gofresh.com.bd/wp-content/uploads/2022/04/3-1-copy.jpg?fit=600%2C600&ssl=1",
 		"sub_des": "0"
@@ -33,7 +33,7 @@
 	{
 		"id": "32",
 		"name": "Suger Free Doi",
-		"price": "Per KG : ৳ 300",
+		"price": "$300",
 		"description": "Doi is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://i0.wp.com/www.bogradoi.com/wp-content/uploads/2020/04/Best-Sweets-BD-Bogurar-Doi-Premium-Sugar-Free-Doi-750gm.jpg",
 		"sub_des": "1"
@@ -41,7 +41,7 @@
 	{
 		"id": "33",
 		"name": "Khajur Doi",
-		"price": "Per KG : ৳ 270",
+		"price": "$270",
 		"description": "Doi is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://www.babsprojects.com/wp-content/uploads/2018/04/Mishti-Doi-square-e1523890989103.jpg",
 		"sub_des": "0"
