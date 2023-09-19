@@ -1,7 +1,7 @@
 [{
 		"id": "28",
 		"name": "Rasgulla",
-		"price": "৳140",
+		"price": "$140",
 		"description": "Sondesh is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://recipesofhome.com/wp-content/uploads/2020/08/rasgulla-recipe-720x540.jpg",
 		"sub_des": "1"
@@ -9,7 +9,7 @@
 	{
 		"id": "29",
 		"name": "Rasmalai",
-		"price": "৳550",
+		"price": "$550",
 		"description": "Sondesh is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://chaiandchurros.com/wp-content/uploads/2021/06/RasMalaiPic-500x500.jpeg",
 		"sub_des": "0"
@@ -17,7 +17,7 @@
 	{
 		"id": "30",
 		"name": "Gulab Jamun",
-		"price": "৳120",
+		"price": "$120",
 		"description": "Sondesh is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2012/11/gulab-jamun-recipe-500x500.jpg",
 		"sub_des": "1"
@@ -25,7 +25,7 @@
 	{
 		"id": "31",
 		"name": "MalaiKari",
-		"price": "৳330",
+		"price": "$330",
 		"description": "Sondesh is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://i.ytimg.com/vi/IWBjCwUaqZM/maxresdefault.jpg",
 		"sub_des": "0"
@@ -33,7 +33,7 @@
 	{
 		"id": "32",
 		"name": "Danadar",
-		"price": "৳300",
+		"price": "$300",
 		"description": "Sondesh is a syrupy dessert popular in the eastern part of South Asia",
 		"imageurl": "https://knowledgetour.net/wp-content/uploads/2021/07/Danadar.jpg",
 		"sub_des": "1"
