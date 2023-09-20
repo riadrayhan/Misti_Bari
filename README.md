@@ -10,7 +10,10 @@
 ## Getting Started
 
 <h4>Project Video </h4>
+
 https://youtu.be/nXzP9haZpLc?si=0W_Zih_e_QFvmbMw
+
+![Screenshot_20230920_205441](https://github.com/riadrayhan/Misti_Bari/assets/44746454/244b320e-51ba-454c-a948-61bce9309717)
 
 
 This project is a starting point for a Flutter application.
