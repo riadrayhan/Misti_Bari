@@ -13,7 +13,19 @@
 
 https://youtu.be/nXzP9haZpLc?si=0W_Zih_e_QFvmbMw
 
-![Screenshot_20230920_205441](https://github.com/riadrayhan/Misti_Bari/assets/44746454/244b320e-51ba-454c-a948-61bce9309717)
+![Screenshot_20230920_205441](https://github.com/riadrayhan/Misti_Bari/assets/44746454/77cbbcbd-eeaa-4863-99e9-20e4e10d3610)
+![Screenshot_20230920_205445](https://github.com/riadrayhan/Misti_Bari/assets/44746454/83dc6337-e282-4d96-9f95-517b8e1a6975)
+![Screenshot_20230920_205511](https://github.com/riadrayhan/Misti_Bari/assets/44746454/36f14fd0-b41a-42ad-a7c5-483391ffd974)
+![Screenshot_20230920_205523](https://github.com/riadrayhan/Misti_Bari/assets/44746454/518c2ad0-8089-46fd-8815-44047ef26977)
+![Screenshot_20230920_205545](https://github.com/riadrayhan/Misti_Bari/assets/44746454/c2cf7397-6651-4c22-989a-e63d7bc1f47e)
+![Screenshot_20230920_205555](https://github.com/riadrayhan/Misti_Bari/assets/44746454/cf25befa-8a50-4971-ba74-6f7358f928aa)
+
+
+
+
+
+
+
 
 
 This project is a starting point for a Flutter application.
