@@ -1,8 +1,17 @@
-# mitha_bari
+<h2>Mitha Bari</h2>
 
-A new Flutter project.
+<P>Mitha Bari is an e-commerce based mobile application.In this app i use frontend and backend widget.</P>
+<P>In backend i used </P>
+<p>Firebase</p>
+<p>Rest API</p>
+<P>Shared Preference for Database</P>
+<p>Json Data Parsing</p>
 
 ## Getting Started
+
+<h4>Project Video </h4>
+https://youtu.be/nXzP9haZpLc?si=0W_Zih_e_QFvmbMw
+
 
 This project is a starting point for a Flutter application.
 
