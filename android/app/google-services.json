@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061384813667",
+    "project_id": "mitha-bari",
+    "storage_bucket": "mitha-bari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061384813667:android:8d8ec04225e0304a688c56",
+        "android_client_info": {
+          "package_name": "com.example.mitha_bari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7M2f5ocFGRfeoeNHVm20TnAWfFY_jPeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
