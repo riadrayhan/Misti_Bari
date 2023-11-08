@@ -9,9 +9,11 @@
 
 ## Getting Started
 
-<h4>Project Video </h4>
+<h3>Project Video </h3>
 
 https://youtu.be/nXzP9haZpLc?si=0W_Zih_e_QFvmbMw
+
+#Project Screenshot
 
 ![Screenshot_20230920_205441](https://github.com/riadrayhan/Misti_Bari/assets/44746454/77cbbcbd-eeaa-4863-99e9-20e4e10d3610)
 ![Screenshot_20230920_205445](https://github.com/riadrayhan/Misti_Bari/assets/44746454/83dc6337-e282-4d96-9f95-517b8e1a6975)
